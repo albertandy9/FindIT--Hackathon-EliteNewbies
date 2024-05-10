@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646013770932",
+    "project_id": "flutter-track-bites",
+    "storage_bucket": "flutter-track-bites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646013770932:android:97f544f3941516cbad0be1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_trackbites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM31-WPmDZkKNZXATORaTGtniBxGxWJNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
