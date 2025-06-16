@@ -1,8 +1,8 @@
 # flutter_trackbites
 
 #Team Members:
-Albert Tandy Harison
-Clarawita
+Albert Tandy Harison,
+Clarawita,
 Tasya Pandya
 
 # Welcome to the repository of our hackathon project focused on mental health, specifically addressing eating disorders.
