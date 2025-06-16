@@ -1,9 +1,9 @@
 # flutter_trackbites
 
 #Team Members:
-Albert Tandy: Hustler
-Clarawita: Hacker
-Tasya Pandya: Hipster
+Albert Tandy Harison
+Clarawita
+Tasya Pandya
 
 # Welcome to the repository of our hackathon project focused on mental health, specifically addressing eating disorders.
 Our team has participated in FindIT! Hackathon with the goal of creating a specialized application to help individuals struggling with eat disorders.
